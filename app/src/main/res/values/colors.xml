@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_color">#1E4175</color>
+    <color name="background_color">#ecf0f3</color>
+    <color name="highlight">#ffffff</color>
+    <color name="shadow_color">#d9dbde</color>
+    <color name="toolbar_color">#1E4175</color>
+
+    <color name="toolbar_top_color">#98999A</color>
+    <color name="toolbar_bottom_color">#ecf0f3</color>
+
+    <color name="neumorph_shadowColorLight">#B5FFFFFF</color>
+    <color name="neumorph_shadowColorDark">#D89A9A9A</color>
+    <color name="color_accent">#FFFFFF</color>
+    <color name="background">#19191E</color>
+</resources>
